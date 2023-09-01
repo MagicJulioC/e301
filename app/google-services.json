@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552284155957",
+    "project_id": "e301b-1bf72",
+    "storage_bucket": "e301b-1bf72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552284155957:android:5faf01cf15aad06c4ec17c",
+        "android_client_info": {
+          "package_name": "mx.tecnm.cdhidalgo.e301b_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552284155957-4mvaisl24dqr8b4lhunru6c7l488dulv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpqdBebSl1aBmnvk3a3PcT3vKvIZoMPCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552284155957-4mvaisl24dqr8b4lhunru6c7l488dulv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
